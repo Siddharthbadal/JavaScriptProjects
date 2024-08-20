@@ -6,4 +6,5 @@
 -  Trending Jobs Projects
 -  Text Analysis App
 -  Movies Info App
--  Words Analytics Project 
+-  Words Analytics Project
+-  Split You Bill App
