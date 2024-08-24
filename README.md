@@ -11,6 +11,6 @@
 
 -   [Trending Jobs Projects  - react](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/TrendingJobs)
 -   [Password Generator  - react ](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/passwordGenerator)
--	  [Reviews App - NextJS](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/ReviewsApp)
+-  [ReviewsApp - NextJS](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/ReviewsApp)
 
 
