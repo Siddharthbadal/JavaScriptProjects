@@ -3,12 +3,13 @@
 -  Feedback APP
 -  Music Player
 -  Jobs Board
--  Trending Jobs Projects  - react
 -  Text Analysis App
 -  Movies Info App
-<<<<<<< HEAD
 -  Words Analytics Project 
--  Password Generator  - react 
 -  Words Analytics Project
--  Split You Bill App
+-  [Split Your Bill](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/BillSplitApp)
+
+-   [Trending Jobs Projects  - react](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/TrendingJobs)
+-   [Password Generator  - react ](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/passwordGenerator)
+-	[Reviews App - NextJS] (https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/ReviewsApp)
 
