@@ -1,7 +1,7 @@
 # JavaScript Projects
 
 -  [Movies Info App](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/Movies%20Info%20App)
--  [Words Analytics Project] (https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/WordsAnalyticsProject)
+-  [Words Analytics Project](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/WordsAnalyticsProject)
 -  [Split Your Bill](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/BillSplitApp)
 -   [Words Analytics Project](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/WordsAnalyticsProject)
 -   [Job Board](https://github.com/Siddharthbadal/JavaScriptProjects/tree/main/Jobs%20Board)
